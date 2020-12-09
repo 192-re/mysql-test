@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-config.dtd" >
+<configuration>
+	<!-- 读取配置文件 -->
+	
+	<properties resource = "jdbc.properties"></properties>
+	<!-- 给实体类取别名 -->
+	
+	<typeAliases>
+		<package name = "com.baidu.entity"></package>
+	</typeAliases>
+	
+	<!-- 数据库环境 -->
+	
+	<environments default="mysql">
+		<!-- environment表示一个数据库环境   id是唯一标识 -->
+		
+		<environment id="mysql">
+		
+			<transactionManager type="JDBC"></transactionManager>
+			<dataSource type="POOLED">
+				<property name="driver" value="${driverClassName}"/>
+				<property name="url" value="${url}"/>
+				<property name="username" value="${username}"/>
+				<property name="password" value="${password}"/>
+			</dataSource>
+		</environment>
+	</environments>
+	<!-- 注册mapper.xml -->
+	
+	<mappers>
+		<package name="com.baidu.mapper"/>
+	
+	</mappers>
+</configuration>
