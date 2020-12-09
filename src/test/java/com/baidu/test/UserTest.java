@@ -48,4 +48,9 @@ public class UserTest {
         UserAction action = new UserAction();
         action.execute();
     }
+@Test
+public void test2(){
+    int a = 10;
+    int b = 20;
+}
 }
