@@ -127,11 +127,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="295" />
-    <option name="y" value="220" />
+    <option name="x" value="100" />
+    <option name="y" value="76" />
     <option name="width" value="1620" />
     <option name="height" value="1106" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -139,18 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="mysql-test" type="58d84e3e:PackageViewProjectNode" />
-              <item name="mysql-test" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,57 +147,17 @@
               <item name="mysql-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="mysql-test" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
             <path>
-              <item name="mysql-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="baidu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="baidu" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql-test" type="58d84e3e:PackageViewProjectNode" />
+              <item name="mysql-test" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -353,6 +302,7 @@
       <workItem from="1606447896690" duration="22000" />
       <workItem from="1606448023278" duration="618000" />
       <workItem from="1607497828049" duration="131000" />
+      <workItem from="1607497998763" duration="545000" />
     </task>
     <servers />
   </component>
@@ -389,12 +339,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12900000" />
+    <option name="totallyTimeSpent" value="13445000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="21" width="1080" height="737" extended-state="0" />
+    <frame x="30" y="166" width="1080" height="737" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25831702" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2632094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
